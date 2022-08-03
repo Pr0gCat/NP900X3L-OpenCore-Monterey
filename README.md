@@ -11,6 +11,7 @@ macOS Monterey for My Samsung NP900X3L
 * WiFi & Bluetooth
 * Battery
 * Audio (Speaker & mic)
+* A virtual RTX4090 to boost your confidence!
 
 ## What not works
 
